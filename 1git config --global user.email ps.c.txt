@@ -1,0 +1,11 @@
+git config --global user.email "ps.claudiatapian@gmail.com"
+git config --global user.name "ClaudiaTNT (Ps-Ikigai)"
+
+
+https://meek-conkies-7925c0.netlify.app/
+
+
+http://meek-conkies-7925c0.netlify.app
+
+
+http://localhost:5173/
